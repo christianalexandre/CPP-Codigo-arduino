@@ -1,0 +1,48 @@
+@media only screen and (max-width: 1000px) {
+
+  #ajusteAncora{
+    margin-top: 5px;
+  }
+
+  #ajusteEsquerda{
+    width: 5px;
+  }
+
+  #ajusteIframe{
+    width: 706px;
+    height: 482px;
+  }
+
+  #ajusteDireita{
+    height: 482px;
+    margin: 50px 0px 0px 80px;
+    padding-top: 15px;
+  }
+
+  #ajusteAbaixo{
+    padding: 10px 15px 10px 15px;
+    margin-left: 15px;
+    width:1480px;
+  }
+
+}
+
+@media only screen and (min-width: 1001px) {
+
+  #ajusteEsquerda{
+    width: 158px;
+  }
+
+  #ajusteDireita{
+    height: 722px;
+    margin: 50px 0px 0px 10px;
+    padding-top: 15px;
+  }
+
+  #ajusteAbaixo{
+    padding: 10px 15px 10px 15px;
+    margin-left: 15px;
+    width:1280px;
+  }
+
+}
