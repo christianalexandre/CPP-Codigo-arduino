@@ -2,6 +2,6 @@
 
 <ul>
   <li>
-    <a href="https://www.youtube.com/watch?v=a9eEVYfAdpk" target="_blank">Apresentação no Youtube</a>
+    <a href="https://www.youtube.com/watch?v=a9eEVYfAdpk">Apresentação no Youtube</a>
   </li>
 </ul>
