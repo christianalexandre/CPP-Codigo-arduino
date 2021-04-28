@@ -7,7 +7,7 @@
 #define LED_VERDE 14
 #define LED_VERMELHO 15
 
-// Foram utilizadas as saidas analógicas 14 e 15 pois algumas portas digitais foram queimadas devido mau uso
+// Foram utilizadas as saidas analógicas 14 e 15 
 
 // Endereço MAC, IP para o server side e IP da câmera para o client side
 byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
